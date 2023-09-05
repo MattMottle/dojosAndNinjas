@@ -36,7 +36,7 @@
 				<form:label path="age">Age:</form:label>
 				<form:input type="number" path="age"/>
 			</p>
-			<button class="button">Submit</button>
+			<button class="button">Create</button>
 		</form:form>
 	</div>
 </body>

@@ -16,7 +16,7 @@
 			<form:label path="name">Dojo Name:</form:label>
 			<form:input path="name"/>
 		</p>
-		<button class="button">Submit</button>
+		<button class="button">Create</button>
 	</form:form>
 </body>
 </html>
